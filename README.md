@@ -5,7 +5,7 @@
 ### Client using VueJS
 
 ```sh
-cd frontend
+cd client
 npm install
 npm run serve
 ```
